@@ -1,3 +1,4 @@
+#click vào một tọa độ cụ thể
 import pyautogui as pag
 import time
 

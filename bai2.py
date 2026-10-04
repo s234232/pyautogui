@@ -1,3 +1,4 @@
+# click vào một đối tượng hình ảnh 
 import pyautogui as pag
 import time 
 
